@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Edgar Uribe 👋
+**Desarrollador Full Stack .NET**
 
-<!--
-**edgaruribedev/edgaruribedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional de TI radicado en Tijuana, B.C., con cerca de 7 años de experiencia abarcando el ciclo completo del desarrollo de software. Me especializo en el análisis, creación y optimización de sistemas empresariales (ERP), automatización de procesos administrativos y digitalización de Recursos Humanos. 
 
-Here are some ideas to get you started:
+Me apasiona traducir flujos de trabajo operativos complejos en soluciones tecnológicas eficientes, seguras y escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+
+*   **Lenguajes de Programación:** C#, JavaScript, T-SQL.
+*   **Desarrollo Backend & Frontend:** .NET, ASP.NET Core 8 MVC, Blazor, Windows Forms, Bootstrap 5, jQuery.
+*   **Bases de Datos:** SQL Server (Diseño, CTEs, Índices, Stored Procedures, Triggers, SQL Server Agent).
+*   **Control de Versiones & Gestión:** Git, GitExtensions, GitHub, Bitbucket, Jira, Asana.
+*   **Infraestructura & Otros:** Despliegue en IIS, Autenticación (OAuth), ETLs, Metodologías Ágiles (Kanban).
+
+### 🚀 Sobre mi experiencia
+
+- 🏢 He liderado la digitalización de controles de asistencia integrando hardware biométrico (reconocimiento facial y dactilar) con plataformas web.
+- ⚙️ Cuento con amplia experiencia estabilizando módulos de facturación electrónica e integrando software contable de terceros (CONTPAQi, QuickBooks).
+- 💡 Disfruto resolver problemas arquitectónicos y optimizar bases de datos para garantizar la integridad y velocidad de los datos en entornos de producción.
+
+### 📫 Cómo contactarme
+
+- ✉️ **Correo electrónico:** edgar.uribe.dev@gmail.com
+- 📍 **Ubicación:** Tijuana, B.C., México
